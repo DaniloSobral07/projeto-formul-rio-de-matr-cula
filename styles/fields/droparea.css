@@ -33,7 +33,7 @@
     }
 
     & svg path {
-      stroke: var(--stroke-highlight)
+      stroke: var(--stroke-highlight);
     }
   }
 }
